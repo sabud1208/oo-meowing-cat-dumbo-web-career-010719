@@ -2,7 +2,7 @@
 class Cat
      attr_reader :name
      attr_writer :name
-     attr_accessor :talk
+     attr_accessor :meow
 end
 
 maru = Cat.new 
