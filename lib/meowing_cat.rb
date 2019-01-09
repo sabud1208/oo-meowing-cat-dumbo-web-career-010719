@@ -1,6 +1,5 @@
 ## code your solution here. 
 class cat
-  def talk
-     attr_reader :
+     attr_reader :name
      attr_writer :name
 end
