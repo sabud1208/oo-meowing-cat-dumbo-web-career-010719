@@ -4,7 +4,7 @@ class Cat
      attr_writer :name
      attr_accessor :name
      
-     def talk
+     def meow
        puts "meow!"
      end
 end
