@@ -1,5 +1,8 @@
 ## code your solution here. 
-class animal
+class Cat
      attr_reader :name
      attr_writer :name
 end
+
+maru = Cat.new 
+maru.name = 
