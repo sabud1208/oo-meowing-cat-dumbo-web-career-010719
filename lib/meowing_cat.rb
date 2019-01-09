@@ -5,11 +5,10 @@ class Cat
      attr_accessor :name
      
      def talk
-       puts "meow"
+       puts "meow!"
      end
 end
 
 maru = Cat.new 
 maru.name = "Maru"
-maru.meow = "meow!"
 maru.talk
